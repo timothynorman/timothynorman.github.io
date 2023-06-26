@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tim Norman.ca</title>
+    <link>https://timothynorman.github.io/</link>
+    <description>Recent content on Tim Norman.ca</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://timothynorman.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://timothynorman.github.io/about/</link>
+      <pubDate>Sun, 25 Jun 2023 21:52:09 -0400</pubDate>
+      
+      <guid>https://timothynorman.github.io/about/</guid>
+      <description>Hi, and welcome to my blog / portfolio (blogfolio?). My name is Tim and I&amp;rsquo;m a computer programming student at Algonquin College in Ottawa, Canada. I&amp;rsquo;m primarily studying Object Oriented Programming using Java, relational databases, and some web development sprinkled in.
+This site is my attempt to document my &amp;ldquo;Lessons Learned&amp;rdquo; so that I can refer back to them if I ever need to, but also help out anyone else who stumbles across it. Considering how many tutorials, help posts, and walkthroughs I&amp;rsquo;ve gone through it&amp;rsquo;s only fair that I try to put some more of that good karma back out there.</description>
+    </item>
+    
+  </channel>
+</rss>

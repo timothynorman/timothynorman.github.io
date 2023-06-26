@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Portfolio of Tim Norman</title>
+    <link>https://timothynorman.github.io/posts/</link>
+    <description>Recent content in Posts on Portfolio of Tim Norman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 25 Jun 2023 21:52:09 -0400</lastBuildDate><atom:link href="https://timothynorman.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://timothynorman.github.io/posts/my-first-post/</link>
+      <pubDate>Sun, 25 Jun 2023 21:52:09 -0400</pubDate>
+      
+      <guid>https://timothynorman.github.io/posts/my-first-post/</guid>
+      <description>Hello World! This is my first attempt at making an online portfolio using a static site-generator. Let&amp;rsquo;s see how well it works!
+To Do  Set up the themeing. Redirect from my domain name. Actually generate some content.  </description>
+    </item>
+    
+  </channel>
+</rss>
