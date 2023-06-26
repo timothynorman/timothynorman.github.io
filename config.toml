@@ -1,4 +1,4 @@
-baseURL = "https://timothynorman.github.io/"
+baseURL = "https://www.timnorman.ca"
 title = "Tim Norman.ca"
 
 theme = "fuji"
@@ -36,7 +36,7 @@ subTitle = "My Portfolio"
 defaultTheme = "dark"              # default theme when first visit (auto|dark|light)
 
 # Source URL of the website, will appear in the footer
-sourceURL = "timothynorman.github.io"
+sourceURL = "timnorman.ca"
 
 # Use CloudFlare Workers to accelerate the Google Analytics
 # If you are using this please comment the googleAnalytics above
@@ -121,7 +121,7 @@ name = "Home"
 url = "/"
 weight = 1
 [[menu.nav]]
-name = "Archives"
+name = "Posts"
 url = "/posts/"
 weight = 2
 [[menu.nav]]
