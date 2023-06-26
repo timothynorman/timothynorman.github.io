@@ -1,7 +1,7 @@
 ---
 title: "Test Post Please Ignore"
 date: 2023-06-25T21:52:09-04:00
-draft: true
+draft: false
 ---
 
 # Hello World!
