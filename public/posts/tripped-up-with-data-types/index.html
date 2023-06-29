@@ -120,6 +120,14 @@ I&rsquo;ve been tripped up before with Project Euler questions where the values 
 <p>I was working though Project Euler <a href="https://projecteuler.net/problem=14" target="_blank">question 14</a> where you perform iterative calculations on values up to one million. I worked out the logic, ran my code and found that the longest chain in the Collatz Sequence started at value 910107&hellip; only for it to be wrong.</p>
 <p>I&rsquo;ve been tripped up before with Project Euler questions where the values are so large that they overflow the capacity of an <code>int</code> to hold them, but since I was working with values only up a million I figured it would be fine. Turns out I wasn&rsquo;t considering all those intermediate calculations which must have gone above 2.1 billion at some point (or 2<sup>31</sup>-1 to be more precise.)</p>
 <p>Long story short, I went through my code and changed most of the <code>int</code> datatypes to <code>BigIntegers</code> which didn&rsquo;t change the logic, but it did make everything more difficult to work with. Ran my code again and got 837799 which was&hellip; correct!</p>
+<blockquote>
+<p><em>Seriously, would you rather work with this:</em></p>
+<pre><code class="language-java">if (num.remainder(new BigInteger(&quot;2&quot;)).equals(new BigInteger(&quot;0&quot;)))
+</code></pre>
+<p><em>Or this?</em></p>
+<pre><code class="language-java">if (num % 2 == 0)
+</code></pre>
+</blockquote>
 <p>The silver lining here is that I nailed the logic of the question, but I do need to be more aware of the limitations of my datatypes since this is not the first time a Project Euler question has tripped me up like this.</p>
 <p>My Java code for this problem can be found on my <a href="https://github.com/timothynorman/projectEuler/blob/main/projectEuler/src/ca/timnorman/projectEuler/Question14.java" target="_blank">GitHub</a>.</p>
 
