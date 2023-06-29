@@ -1,19 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tim Norman.ca</title>
-    <link>https://timothynorman.github.io/</link>
-    <description>Recent content on Tim Norman.ca</description>
+    <title>TimNorman.ca</title>
+    <link>https://www.timnorman.ca/</link>
+    <description>Recent content on TimNorman.ca</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://timothynorman.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Jun 2023 15:14:49 -0400</lastBuildDate><atom:link href="https://www.timnorman.ca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tripped Up With Data Types</title>
+      <link>https://www.timnorman.ca/posts/tripped-up-with-data-types/</link>
+      <pubDate>Thu, 29 Jun 2023 15:14:49 -0400</pubDate>
+      
+      <guid>https://www.timnorman.ca/posts/tripped-up-with-data-types/</guid>
+      <description>I&amp;rsquo;ve taken some time this week to get back into solving coding practice problems during some downtime at school. One issue I&amp;rsquo;ve had with this semester is that there isn&amp;rsquo;t as much coding built into the course work, so I really have to take it upon myself to find things to code.
+I was working though Project Euler question 14 where you perform iterative calculations on values up to one million. I worked out the logic, ran my code and found that the longest chain in the Collatz Sequence started at value 910107&amp;hellip; only for it to be wrong.
+I&amp;rsquo;ve been tripped up before with Project Euler questions where the values are so large that they overflow the capacity of an int to hold them, but since I was working with values only up a million I figured it would be fine.</description>
+    </item>
+    
     <item>
       <title>About Me</title>
-      <link>https://timothynorman.github.io/about/</link>
+      <link>https://www.timnorman.ca/about/</link>
       <pubDate>Sun, 25 Jun 2023 21:52:09 -0400</pubDate>
       
-      <guid>https://timothynorman.github.io/about/</guid>
+      <guid>https://www.timnorman.ca/about/</guid>
       <description>Hi, and welcome to my blog / portfolio (blogfolio?). My name is Tim and I&amp;rsquo;m a computer programming student at Algonquin College in Ottawa, Canada. I&amp;rsquo;m primarily studying Object Oriented Programming using Java, relational databases, and some web development sprinkled in.
 This site is my attempt to document my &amp;ldquo;Lessons Learned&amp;rdquo; so that I can refer back to them if I ever need to, but also help out anyone else who stumbles across it. Considering how many tutorials, help posts, and walkthroughs I&amp;rsquo;ve gone through it&amp;rsquo;s only fair that I try to put some more of that good karma back out there.</description>
+    </item>
+    
+    <item>
+      <title>Test Post Please Ignore</title>
+      <link>https://www.timnorman.ca/posts/my-first-post/</link>
+      <pubDate>Sun, 25 Jun 2023 21:52:09 -0400</pubDate>
+      
+      <guid>https://www.timnorman.ca/posts/my-first-post/</guid>
+      <description>Hello World! This is my first attempt at making an online portfolio using a static site-generator. This site will act as a repository of my &amp;ldquo;Lessons Learned&amp;rdquo; while studying computer programming so that I (and possibly anyone else who stumbles in) can benefit from what I&amp;rsquo;ve struggled to figure out already. I will also showcase some projects or coding problems.
+Let&amp;rsquo;s see how well it works!
+To Do  Set up the theming. Customize the theme and boilerplate material. Redirect from my domain name. Actually generate some content. Ok, it seems that you need to be inside the post to see the formatting, otherwise it all gets smashed together on the preview card.</description>
     </item>
     
   </channel>

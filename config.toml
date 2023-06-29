@@ -1,5 +1,5 @@
 baseURL = "https://www.timnorman.ca"
-title = "Tim Norman.ca"
+title = "TimNorman.ca"
 
 theme = "fuji"
 hasCJKLanguage = true

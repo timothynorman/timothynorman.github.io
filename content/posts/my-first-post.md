@@ -5,12 +5,12 @@ draft: false
 ---
 
 # Hello World!
-This is my first attempt at making an online portfolio using a static site-generator. This site will act as a respository of my "Lessons Learned" while studying computer programming so that I (and possibly anyone else who stumbles in) can benefit from what I've struggled to figure out already. I will also showcase some projects or coding problems. 
+This is my first attempt at making an online portfolio using a static site-generator. This site will act as a repository of my "Lessons Learned" while studying computer programming so that I (and possibly anyone else who stumbles in) can benefit from what I've struggled to figure out already. I will also showcase some projects or coding problems. 
 
 Let's see how well it works! 
 
 ## To Do
-- [x] Set up the themeing. 
+- [x] Set up the theming. 
 - [ ] Customize the theme and boilerplate material. 
 - [ ] Redirect from my domain name. 
 - [ ] Actually generate some content. 

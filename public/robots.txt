@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://timothynorman.github.io/sitemap.xml
+Sitemap: https://www.timnorman.ca/sitemap.xml
