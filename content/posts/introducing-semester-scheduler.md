@@ -4,7 +4,7 @@ tags:
 - Personal project
 - Semester scheduler
 date: 2024-02-19T11:32:56-05:00
-draft: true
+draft: false
 ---
 ## It's Been a While
 I started this site as a project over mid-term break last summer and then promptly forgot/didn't have time for it. Since then I've finished my first year of programming classes and have started my co-op workterms and while that's given me invaluable experience with coding in a professional setting I have been ignoring working on personal projects. 
