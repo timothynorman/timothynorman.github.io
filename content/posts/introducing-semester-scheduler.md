@@ -14,7 +14,7 @@ I've kind of been bouncing around between Advent of Code, LeetCode, and Project 
 ## Enter the Semester Scheduler
 In the first week of every semester I've found it useful to create a "Semester Schedule" which is a one-stop-shop for every due date, submission deadline and test for the next four months. 
 
-![Last summer's schedule](/images/term-3-schedule.png)
+![example](/images/term-3-schedule.png "Semester Schedule")
 
 Each row represents a week, and each column is for a course. On this one sheet I can see what's due this week, what's coming up in the next few weeks, and what the most important items are. It's been really helpful in planning my reading and studying, and what to prioritize. 
 
