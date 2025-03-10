@@ -1,36 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on Tim&#39;s Blog</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on Tim&#39;s Blog</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Feb 2025 15:03:43 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 09 Mar 2025 20:30:13 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Third Post</title>
-      <link>http://localhost:1313/posts/third-post/</link>
-      <pubDate>Sat, 22 Feb 2025 15:03:43 -0500</pubDate>
-      <guid>http://localhost:1313/posts/third-post/</guid>
-      <description>&lt;p&gt;And my &lt;strong&gt;third post&lt;/strong&gt; to see how it formats relative to the others I&amp;rsquo;ve written so far. After this one I&amp;rsquo;ll have to see how it  changes if I add a main &lt;code&gt;_index.md&lt;/code&gt; for general front matter.&lt;/p&gt;</description>
+      <title>Second Post</title>
+      <link>http://localhost:1313/posts/second-post/</link>
+      <pubDate>Sun, 09 Mar 2025 20:30:13 -0400</pubDate>
+      <guid>http://localhost:1313/posts/second-post/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve just converted my defaults to yaml instead of toml because it is much &lt;em&gt;much&lt;/em&gt; easier to read.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note to self:&lt;/strong&gt; The backticks for inline code aren&amp;rsquo;t allowed for the post preview.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>My Second Post</title>
-      <link>http://localhost:1313/posts/my-second-post/</link>
-      <pubDate>Sat, 22 Feb 2025 15:02:31 -0500</pubDate>
-      <guid>http://localhost:1313/posts/my-second-post/</guid>
-      <description>&lt;p&gt;This is the second post. I&amp;rsquo;m trying to make it with a leaf-branch and see if that works. That&amp;rsquo;ll be best for me with regards to getting images and stuff organized.&lt;/p&gt;
-&lt;p&gt;I need to find out how to enable wordwrapping in Zed, because writing like this on one giant line is going to drive me nuts.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ll need to figure out how to post images too. Like this one!
-&lt;img alt=&#34;Guy Running&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/my-second-post/images/running.png&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Sat, 22 Feb 2025 15:00:46 -0500</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;This is my &lt;strong&gt;first&lt;/strong&gt; post. Hopefully it works this time. I had no luck with this on my desktop, and had no idea why.&lt;/p&gt;</description>
+      <title>Test Post</title>
+      <link>http://localhost:1313/posts/test-post/</link>
+      <pubDate>Sun, 09 Mar 2025 20:09:42 -0400</pubDate>
+      <guid>http://localhost:1313/posts/test-post/</guid>
+      <description>&lt;p&gt;Please ignore.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

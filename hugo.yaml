@@ -1,0 +1,15 @@
+baseURL: "https://timnorman.ca/"
+languageCode: en-us
+title: Tim's Blog
+theme: [PaperMod]
+
+params:
+  homeInfoParams:
+    Title: Tim's Title
+    Content: My Content
+
+    socialIcons:
+      - name: bluesky
+        url: "https://bsky.app/profile/tiimbot.bsky.social"
+      - name: linkedin
+        url: "https://www.linkedin.com/in/timwnorman/"
